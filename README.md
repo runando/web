@@ -6,6 +6,5 @@ Developer but also athlete and photographer.
 
 ---
 Comming soon
----
 
 # enjoy!
