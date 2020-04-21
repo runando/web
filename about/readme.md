@@ -1,4 +1,4 @@
-## about
+## runando · about
 [home](https://runando.github.io/web/) | [about](https://runando.github.io/web/about/)
 
 Licenciado en Ciencias Físicas, aficionado a la fotografía, amante del atletismo e ingeniero de software de profesión.
