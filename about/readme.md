@@ -1,7 +1,6 @@
 ## runando · about
 [home](https://runando.github.io/web/) | [about](https://runando.github.io/web/about/)
 
-Licenciado en Ciencias Físicas, aficionado a la fotografía, amante del atletismo e ingeniero de software de profesión.
+Graduete of Physical Sciences, photography enthusiast, athletics lover and software engineer by profession.
 
-Si quieres seguirme más de cerca puedes hacerlo a través de [twitter](https://twitter.com/runando) , o en algunas de las redes sociales de moda, queda en tu decisión: buscarme y/o seguirme.
-
+If you want to follow me, you can do it through [twitter](https://twitter.com/runando), or in some of the fashionable social networks, it is up to you to find me and / or follow me.
